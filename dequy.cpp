@@ -11,6 +11,6 @@ int main()
 {
 	int n;
 cin >>  n;
-cout << F(n);
+cout << F(n); //mota2
 }
 
