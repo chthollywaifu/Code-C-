@@ -11,6 +11,6 @@ int main()
 {
 	int n;
 cin >>  n;
-cout << F(n); //mota2
+cout << F(n); //mota2 ///quq/qu/q/uq/u/qu/quq
 }
 
